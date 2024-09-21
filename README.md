@@ -1,6 +1,3 @@
-# Alto Pharmacy Case Study
-
-ation plans to gauge the impact of the proposed checkout feature enhancement for non-medication items.
 
 # Online Pharmacy Checkout Feature Analysis
 
