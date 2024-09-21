@@ -1,1 +1,1 @@
-# test-Alto-Pharmacy
+# Alto Pharmacy Case Study
