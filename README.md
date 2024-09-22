@@ -1,5 +1,5 @@
-
 # Online Pharmacy Checkout Feature Analysis
+![image](https://github.com/user-attachments/assets/bb26bd10-21a7-4525-83c2-b96a45d19a97)
 
 ## TL;DR
 
